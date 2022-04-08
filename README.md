@@ -19,7 +19,7 @@ npm run build
 ```
 npm run lint
 ```
-##说明
+## 说明
 
 此项目为简易自定义组件拖拽
 
